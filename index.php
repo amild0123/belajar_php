@@ -7,7 +7,7 @@
     <body>
         <h3>
             <?php
-            echo"Hello world"
+            echo"Hello world";
             ?>
             </h3>
 </body>
