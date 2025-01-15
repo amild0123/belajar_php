@@ -7,7 +7,9 @@
     <body>
         <h3>
             <?php
-            echo"Hello world!! IM HERE!!! <br/>" ;
+            $var1 = 10
+            echo "Hello world!! IM HERE!!! <br/>";
+            echo $var1;
             ?>
         </h3>
     </body>
