@@ -17,7 +17,7 @@
 
 $var1= 120;
 $Var1='pepeelge';
-
+//titik koma 
 echo "nilai dari variabel".$var1."<br/>";
 
 ?>
