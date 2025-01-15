@@ -7,7 +7,7 @@
     <body>
         <h3>
             <?php
-            $var1 = 10
+            $var1 = 10;
             echo "Hello world!! IM HERE!!! <br/>";
             echo $var1;
             ?>
@@ -16,9 +16,9 @@
 // coba coba cui
 
 $var1= 120;
-$Var1='pepeelge'
+$Var1='pepeelge';
 
-echo "nilai dari variabel".$var1."<br/>"
+echo "nilai dari variabel".$var1."<br/>";
 
 ?>
     </body>
